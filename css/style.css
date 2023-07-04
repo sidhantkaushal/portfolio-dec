@@ -14,7 +14,7 @@
   --main-color: #647bff;
   --body-color: #090a1a;
   --container-color: #171b3c;
-  --heading-color: #222231;
+  --heading-color: #676780;
   --box-color: #0d0f26;
   --bg-color: #fff;
 }
@@ -271,6 +271,34 @@ header {
   text-align: center;
 }
 
+/* Projects */
+.project-box {
+  margin: 5rem 0px;
+}
+.project-heading {
+  color: #647bff;
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+.project-desc {
+  text-align: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.project-link {
+  display: block;
+  text-align: center;
+  margin: auto;
+  width: auto;
+}
+.project-img {
+  margin: auto;
+  justify-content: center;
+  max-width: 50%;
+  height: auto;
+}
 /* Contacts */
 
 .contact-form {
